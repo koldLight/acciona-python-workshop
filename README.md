@@ -15,6 +15,8 @@ Two options here:
   * pipenv
   * jupyter
 
+Alternatively, you can access via [MyBinder](https://mybinder.org/v2/gh/koldLight/acciona-python-workshop/master).
+
 To install `pipenv` as a command, do:
 
 ```
